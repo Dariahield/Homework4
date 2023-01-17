@@ -82,6 +82,7 @@ public class Main {
 
     }
 
+
     public static void task6() {
         System.out.println("Задача 6");
         int numberOfPeople = 70;
